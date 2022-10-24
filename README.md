@@ -1,1 +1,1 @@
-"# Swipe-and-Drag-Recyclewer-View-Android" 
+ Swipe-and-Drag-Recyclewer-View-Android
